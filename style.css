@@ -48,6 +48,7 @@ body {
 
 .hero-image {
   margin-bottom: 620px;
+
 }
 
 .hero-image .container {
@@ -167,6 +168,7 @@ body {
   border-radius: 4px;
   background-color: #288be6;
   color: #ffffff;
+  margin: 0 0 30px;
 }
 
 .page-footer {
